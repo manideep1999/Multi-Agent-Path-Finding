@@ -21,7 +21,7 @@ First, we compute the independent MAPF solver plans for all agents independently
 
 Output for the following:
 <p align="center">
-    <img style="width:400px" src="img/Independent.png"/>
+    <img style="width:800px" src="img/Independent.png"/>
 </p>
 
 ### Space Time A* Planning
@@ -41,7 +41,7 @@ The  prioritized  MAPF  solver  finds  paths  for  all  agents,  one  after  the
 
 Output for the following:
 <p align="center">
-    <img style="width:400px" src="img/Prioritized.png"/>
+    <img style="width:800px" src="img/Prioritized.png"/>
 </p>
 
 ### Conflict Based Search Planning
@@ -53,7 +53,7 @@ We detect collisions among agents, namely vertex collisions where two agents are
 
 Output for the following:
 <p align="center">
-    <img style="width:400px" src="img/CBS.png"/>
+    <img style="width:800px" src="img/CBS.png"/>
 </p>
 
 ### Conflict Based Search Planning with Disjoint Split
